@@ -1,1 +1,1 @@
-public class SocialSecurity{}
+public class SocialSecurity{ public SocialSecurity(){} }
